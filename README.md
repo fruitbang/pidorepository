@@ -1,2 +1,0 @@
-# pidorepository
-pidorepository shit
